@@ -61,8 +61,8 @@ check_token() {
   if [ "$USER_TOKEN" = "Ikykyxtobrut" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
-    echo -e "${GREEN}Buy dulu Gih Ke Ikykyoffc${NC}"
-    echo -e "${YELLOW}HARGA TOKEN : 10K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
+    echo -e "${GREEN}Buy dulu Gih Ke Ikykyofficial${NC}"
+    echo -e "${YELLOW}HARGA TOKEN : 15K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
     echo -e "${YELLOW}©Ikykyoffc${NC}"
     exit 1
   fi
